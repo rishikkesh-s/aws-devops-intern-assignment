@@ -99,5 +99,5 @@ The website was accessed successfully using the EC2 public IP address.
 
 ## Time Taken
 
-Completed within 1 day as part of the AWS DevOps Engineer Internship Assignment.
+Completed within 4 hours as part of the AWS DevOps Engineer Internship Assignment.
 
